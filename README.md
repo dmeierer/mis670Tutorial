@@ -1,9 +1,9 @@
 # mis670Tutorial
 MIS670 Tutorial
 
-I do not take credit for the library or tutorial examples used to help illustrate the libraries usage.
+I do not take credit for the library or examples from the library used to help illustrate what Scattertext cand do.
 
-This tutorial is designed to introduce the Scattertext Library by Jason Kessler
+This tutorial is designed to introduce the Scattertext Library by Jason Kessler.
 
-The code for the library can be viewed here: https://github.com/JasonKessler/scattertext#visualizing-any-kind-of-term-score
+The code for the library can be viewed here: https://github.com/JasonKessler/scattertext#visualizing-any-kind-of-term-score.
 

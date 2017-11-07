@@ -1,7 +1,7 @@
 # MIS670 Tutorial
 MIS670 Tutorial
 
-I do not take credit for the library or examples from the library used to help illustrate what Scattertext cand do.
+I do not take credit for the library or examples from the library used to help illustrate what Scattertext can do.
 
 This tutorial is designed to introduce the Scattertext Library by Jason Kessler.
 
